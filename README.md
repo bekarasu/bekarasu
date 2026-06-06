@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Burak Eren Karasu
 
-I'm a Senior Backend Engineer with 7+ years of experience in building scalable, resilient systems using **Go**, **TypeScript**, and **Node.js**. I specialize in system design, microservices architecture, and performance optimization, with hands-on experience in **AWS**, **Kubernetes**, and **real-time communication systems**.
+I'm a Senior Backend Engineer with 7+ years of experience in building scalable, resilient systems using **Go**, **TypeScript**, and **Node.js**. I specialize in system design, microservices architecture, and performance optimization, with hands-on experience in **AWS**, **Kubernetes**, and **real-time communication systems** like gRPC, WebSocket. 
 
 ## 🛠️ What I Do
 - Architect and lead backend systems for high-traffic mobile applications
@@ -22,5 +22,3 @@ I'm a Senior Backend Engineer with 7+ years of experience in building scalable, 
 - 💌 burakeren.karasu@gmail.com
 
 ---
-
-🌱 Always learning, always improving. Let's build something great together!
