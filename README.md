@@ -4,6 +4,8 @@ I’m a **Senior Backend Engineer** focused on building scalable, resilient dist
 
 I enjoy solving complex infrastructure puzzles, making services run faster, and ensuring high-traffic applications stay stable under pressure.
 
+I keep my backend projects private. If you want to contribute, you can always reach out to me.
+
 ---
 
 ## 🛠️ What I Do
